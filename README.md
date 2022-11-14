@@ -1,4 +1,3 @@
-# Animation-of-the-heart-beating
 # 爱心跳动动画实现，仿《点燃我温暖你》电视剧中李峋爱心代码
 
 
